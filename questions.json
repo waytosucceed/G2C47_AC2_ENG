@@ -1,0 +1,153 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Who did Felix meet on his adventure?",
+    "options": [
+      "Mr. Lion",
+      "Mr. Owl",
+      "Mrs. Rabbit"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What did Mr. Owl say was needed to find the Sky Bridge?",
+    "options": [
+      "A brave heart and belief in magic",
+      "A magic key",
+      "A big map"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What did Felix see in the sky after Twinkle returned home?",
+    "options": [
+      "A shooting star",
+      "A rainbow",
+      "A giant moon"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "<img width='45%' src='1.png'><br>What is the action associated with the owl?",
+    "options": [
+      "Flying",
+      "Eating",
+      "Sitting"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Identify the correct contraction:",
+    "options": [
+      "H’is",
+      "He’s",
+      "Hes’s"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "<b>Read the story:</b><br> The little girl went to the park, played on the swings, and ate an ice cream cone. Now, put the events in order.",
+    "options": [
+      "Played on the swings, ate an ice cream cone, and went to the park.",
+      "Went to the park, played on the swings, and ate an ice cream cone."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "<b>Read the story:</b><br> The boy packed his lunch, went to school, and sat at his desk. Now, put the events in order.",
+    "options": [
+      "Went to school, packed his lunch, and sat at his desk.",
+      "Packed his lunch, went to school, and sat at his desk."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "<b>Read the story:</b><br> The teacher gave the students their homework, they wrote it in their notebooks, and then they packed their bags. Now, put the events in order.",
+    "options": [
+      "The teacher gave the students their homework, they wrote it in their notebooks, and then they packed their bags.",
+      "They wrote it in their notebooks, packed their bags, and the teacher gave the students their homework."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "<b>Read the story:</b><br> The cat chased the mouse, caught it, and took a nap. Now, put the events in order.",
+    "options": [
+      "Chased the mouse, took a nap, and caught it.",
+      "Caught it, chased the mouse, took a nap.",
+      "Chased the mouse, caught it, and took a nap."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "<b>Read the story:</b><br> The man watered the plants, picked some flowers, and sat down to relax. Now, put the events in order.",
+    "options": [
+      "Picked some flowers, watered the plants, and sat down to relax.",
+      "Watered the plants, picked some flowers, and sat down to relax."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "content":"<b>The Lost Puppy</b><br><br>One sunny afternoon, Mia was playing in her backyard when she heard a soft whimper. She turned around and saw a small, fluffy puppy stuck in the bushes. The puppy looked scared and hungry, so Mia gently picked it up and carried it inside. She gave the puppy a bowl of water and some food. The puppy wagged its tail and licked her face, thanking her for being so kind. <br>Mia wanted to help the puppy find its home, so she made a \"Lost Puppy\" sign and posted it around the neighbourhood. The next day, a man came to her house, looking worried. When he saw the puppy, his face lit up with joy. \"That's my puppy!\" he said, picking it up. Mia felt happy to have helped, and the puppy barked happily as it was reunited with its owner.",
+    "question": "What happened first?",
+    "options": [
+      "The puppy wagged its tail.",
+      "Mia gave the puppy food and water.",
+      "Mia heard a soft whimper and saw the puppy."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "content":"<b>The Lost Puppy</b><br><br>One sunny afternoon, Mia was playing in her backyard when she heard a soft whimper. She turned around and saw a small, fluffy puppy stuck in the bushes. The puppy looked scared and hungry, so Mia gently picked it up and carried it inside. She gave the puppy a bowl of water and some food. The puppy wagged its tail and licked her face, thanking her for being so kind. <br>Mia wanted to help the puppy find its home, so she made a \"Lost Puppy\" sign and posted it around the neighbourhood. The next day, a man came to her house, looking worried. When he saw the puppy, his face lit up with joy. \"That's my puppy!\" he said, picking it up. Mia felt happy to have helped, and the puppy barked happily as it was reunited with its owner.",
+    "question": "What happened after Mia picked up the puppy?",
+    "options": [
+      "She posted a sign to find the puppy’s owner.",
+      "She gave the puppy food and water.",
+      "She went inside her house."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "content":"<b>The Lost Puppy</b><br><br>One sunny afternoon, Mia was playing in her backyard when she heard a soft whimper. She turned around and saw a small, fluffy puppy stuck in the bushes. The puppy looked scared and hungry, so Mia gently picked it up and carried it inside. She gave the puppy a bowl of water and some food. The puppy wagged its tail and licked her face, thanking her for being so kind. <br>Mia wanted to help the puppy find its home, so she made a \"Lost Puppy\" sign and posted it around the neighbourhood. The next day, a man came to her house, looking worried. When he saw the puppy, his face lit up with joy. \"That's my puppy!\" he said, picking it up. Mia felt happy to have helped, and the puppy barked happily as it was reunited with its owner.",
+    "question": "What happened after Mia posted the sign?",
+    "options": [
+      "The puppy was adopted by someone else.",
+      "A man came to Mia’s house looking for the puppy.",
+      "Mia took the puppy to a pet store."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "content":"<b>The Lost Puppy</b><br><br>One sunny afternoon, Mia was playing in her backyard when she heard a soft whimper. She turned around and saw a small, fluffy puppy stuck in the bushes. The puppy looked scared and hungry, so Mia gently picked it up and carried it inside. She gave the puppy a bowl of water and some food. The puppy wagged its tail and licked her face, thanking her for being so kind. <br>Mia wanted to help the puppy find its home, so she made a \"Lost Puppy\" sign and posted it around the neighbourhood. The next day, a man came to her house, looking worried. When he saw the puppy, his face lit up with joy. \"That's my puppy!\" he said, picking it up. Mia felt happy to have helped, and the puppy barked happily as it was reunited with its owner.",
+    "question": "What did Mia do after she gave the puppy food and water?",
+    "options": [
+      "She took the puppy outside to play.",
+      "She went back to her room.",
+      "She made a 'Lost Puppy' sign to help find the owner."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q15.",
+    "content":"<b>The Lost Puppy</b><br><br>One sunny afternoon, Mia was playing in her backyard when she heard a soft whimper. She turned around and saw a small, fluffy puppy stuck in the bushes. The puppy looked scared and hungry, so Mia gently picked it up and carried it inside. She gave the puppy a bowl of water and some food. The puppy wagged its tail and licked her face, thanking her for being so kind. <br>Mia wanted to help the puppy find its home, so she made a \"Lost Puppy\" sign and posted it around the neighbourhood. The next day, a man came to her house, looking worried. When he saw the puppy, his face lit up with joy. \"That's my puppy!\" he said, picking it up. Mia felt happy to have helped, and the puppy barked happily as it was reunited with its owner.",
+    "question": "What happened last in the story?",
+    "options": [
+      "The man came to Mia’s house.",
+      "Mia gave the puppy food and water.",
+      "The puppy was happily reunited with its owner."
+    ],
+    "correct": 2
+  }
+]
